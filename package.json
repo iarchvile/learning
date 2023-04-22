@@ -1,0 +1,20 @@
+{
+  "name": "alien-invasion",
+  "version": "0.0.1",
+  "description": "Убить всех человеков",
+  "main": "earth.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "kill",
+    "all",
+    "humans"
+  ],
+  "author": "Adolf Elizarov",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^4.3.1"
+  }
+}
